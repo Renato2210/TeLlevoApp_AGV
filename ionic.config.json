@@ -1,0 +1,7 @@
+{
+  "name": "TeLlevoApp_AGV",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
